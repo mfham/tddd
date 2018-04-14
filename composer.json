@@ -25,7 +25,7 @@
         "laravel/framework": ">=5.5",
         "pragmarx/support": "~0.8",
         "sensiolabs/ansi-to-html": "~1",
-        "symfony/process": "~3",
+        "symfony/process": "~4",
         "guzzlehttp/guzzle": "~6.3",
         "jolicode/jolinotif": "~1.2",
         "doctrine/dbal": "~2.5",
